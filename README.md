@@ -9,5 +9,5 @@ He seleccionado el conjunto de datos "Daily Exchange Rates" de Kaggle. Este data
 -	**Formato**: CSV
 
 **Observaciones clave del EDA**:
- El objetivo principal fue comprender la estructura, las distribuciones y las tendencias de diversas tasas de cambio frente al dólar estadounidense a lo largo del tiempo.
- El conjunto de datos original, en formato CSV, fue cargado y sometido a un proceso de limpieza y transformación. Se verificó el tipo de dato de la columna Fecha y se convirtió al formato adecuado. 
+El objetivo principal fue comprender la estructura, las distribuciones y las tendencias de diversas tasas de cambio frente al dólar estadounidense a lo largo del tiempo,
+el conjunto de datos original, en formato CSV, fue cargado y sometido a un proceso de limpieza y transformación. Se verificó el tipo de dato de la columna Fecha y se convirtió al formato adecuado. 
